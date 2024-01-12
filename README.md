@@ -1,6 +1,7 @@
 # Overview
 This Java Chess Game project is an implementation of the classic game of chess, featuring a graphical user interface (GUI) created with Java Swing. The project focuses on clean code, logical game mechanics, and an intuitive user experience.
-<img src = "./public/Chess_in_java_Demo.png">
+
+<img src = "./public/Chess_in_Java_Demo.png">
 
 ## Features
 ### Graphical User Interface:
